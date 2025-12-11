@@ -2,6 +2,29 @@
 
 Window Icons in Sway with Nerd Fonts!
 
+## Maintainer Note
+This fork is currently maintained by **Xarcher**, with the goal of keeping the project up-to-date and improving the overall experience.  
+I will continue updating icon mappings, refreshing dependencies, and adding new features over time to ensure the tool works smoothly with the latest versions of Sway and Nerd Fonts.
+
+Contributions are always welcome!  
+If you encounter any issues or have feature requests, please feel free to open an issue on the repository — I’m happy to support and improve the project together with the community.
+
+## Roadmap / Planned Features
+
+Here are some upcoming improvements and tasks planned for future releases:
+
+- [ ] Expand default icon mappings for more applications
+- [ ] Add support for automatically generating icon suggestions based on window titles
+- [ ] Improve matching accuracy for edge-case applications (mixed class/title behavior)
+- [ ] Publish package to AUR (Arch Linux) for easier installation
+- [ ] Provide prebuilt binaries for major Linux distributions
+- [ ] Add configuration reloading without restarting `swaycons`
+- [ ] Add debug mode / verbose logging option
+- [ ] Add optional performance metrics (startup time, matching speed)
+- [ ] Add example configs for popular app setups (browser, terminal, IDE, chat apps)
+
+More ideas and suggestions are welcome — feel free to open an issue or submit a PR!
+
 ## Why?
 
 - I heavily use sway tabs and adding icons makes it a lot easier to visually pick out the window that I'm looking for.

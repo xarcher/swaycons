@@ -15,7 +15,7 @@ name = "swaycons"
 path = "src/main.rs"
 
 [dependencies]
-config = "0.11.0"
+config = "0.15.19"
 regex = "1.5.4"
-swayipc = "3.0.0"
-xdg = "2.4.0"
+swayipc = "4.0.0"
+xdg = "3.0.0"
